@@ -34,6 +34,9 @@ TODO: implementing of options resp. other tasks from PR #1346
       - [Init?family=inet4] - IPv4 qualified hosts only
       - [Init?family=inet6] - IPv6 qualified hosts only
 
+* New filters:
+    - x11vnc - ban hosts, that were failed to connect with invalid
+
 ### Enhancements
 * huge increasing of fail2ban performance and especially test-cases performance (see gh-1109)
 * datedetector: in-place reordering using hits and last used time: 
